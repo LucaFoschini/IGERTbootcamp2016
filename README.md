@@ -1,4 +1,4 @@
-# NSF/IGERT Bootcamp, Day 3 --- "Everything Data"
+# Everything Data (IGERT Bootcamp, Day 3)
 
 *Instructor:* [Luca Foschini](www.lucafoschini.com) (email: luca@evidation.com) (twitter: @calimagna)
 
