@@ -15,14 +15,14 @@
 
 ## Data Ingestion, Wrangling, ETL
 
-  - 80% of Data Science is data wrangling
-  - Python's library ecosystem is the first reason to use it
-  - Numpy and Pandas: things you must know
+  - 80% of Data Science is data wrangling. 
+  - Python's library ecosystem is the first reason to use it!
+  - Pandas: if you learn one thing today, learn this!
 
 ## Why is my code slow?
 
-  - Under the hood of your computer: Memory hiearchies.
-  - Python is magic. Magic ain't free: how built-in types are implemented and efficiency consideration
+  - Look under the hood: Memory hiearchies.
+  - Python is magic, magic ain't free: how built-in types are implemented and efficiency consideration
   - Profiling and monitoring
   - If everything else fails: go parallel. 
   
