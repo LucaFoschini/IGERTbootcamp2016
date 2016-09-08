@@ -22,7 +22,7 @@
 ## Why is my code slow?
 
   - Look under the hood: Memory hiearchies.
-  - Python is magic, magic ain't free: how built-in types are implemented and efficiency consideration
+  - Python is magic, magic isn't free: how built-in types are implemented and efficiency consideration
   - Profiling and monitoring
   - If everything else fails: go parallel. 
   
